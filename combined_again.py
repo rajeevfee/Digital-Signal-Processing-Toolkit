@@ -5,8 +5,8 @@
 import streamlit as st
 
 import numpy as np
-# from scipy.fft import fft
-from scipy.fftpack import fft
+from scipy.fft import fft
+# from scipy.fftpack import fft
 from scipy import signal
 from scipy import stats
 import pandas as pd
